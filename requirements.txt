@@ -1,0 +1,12 @@
+# Model files were saved with Keras 2.4 and train.py uses Keras 2 APIs,
+# so stay below TensorFlow 2.16 (which ships Keras 3).
+tensorflow<2.16
+opencv-python
+numpy
+pandas
+pyautogui
+streamlit>=1.18
+scikit-learn
+matplotlib
+seaborn
+pillow
