@@ -367,15 +367,9 @@ If the ROI preview looks mostly black, raise the value. If the hand fades away, 
 - 🌍 **Larger, more diverse dataset** with transfer learning (MobileNetV2 / EfficientNet)
 
 ---
-
-## 👥 Team
-
 | Name |
-|---|
-| Rishi Raj Sharma |
-| S Madan |
 | MD Faiz |
-| Tejaswini |
+
 
 ---
 
